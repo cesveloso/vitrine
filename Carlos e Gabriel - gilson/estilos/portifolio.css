@@ -1,0 +1,32 @@
+.citacao-portifolio{
+    background-color: white;
+    border: 8px solid black;
+    box-sizing: border-box;
+    width: 48%;
+    height: 350px;
+    display: inline-block;
+}
+
+.bmw{
+    float: left;
+    padding: 8px 8px;
+    margin: 0px;   
+}
+
+.uol{
+    float: right;
+    padding: 8px;
+    margin: 0px;   
+}
+
+.ibm{
+    float: left;
+    padding: 8px;
+    margin-top: 20px;
+}
+
+.g1{
+    float: right;
+    padding: 8px;
+    margin-top: 20px;
+}
